@@ -1,0 +1,39 @@
+S
+N
+(l(-)&f(-)&r(<), prh(Go))
+N
+(l(-)&f(<)&r(<), prh(Go))
+N
+(l(-)&f(>)&r(>), prh(Go))
+N
+(l(-)&f(^)&r(-), prh(Go))
+N
+(l(-)&f(^)&r(<), prh(Go))
+N
+(l(-)&f(^)&r(w), prh(Go))
+N
+(l(<)&f(-)&r(<), prh(Go))
+N
+(l(<)&f(<)&r(-), prh(Go))
+N
+(l(<)&f(<)&r(<), prh(Go))
+N
+(l(<)&f(^)&r(<), prh(Go))
+N
+(l(>)&f(-)&r(-), prh(Go))
+N
+(l(>)&f(-)&r(>), prh(Go))
+N
+(l(>)&f(>)&r(-), prh(Go))
+N
+(l(>)&f(>)&r(>), prh(Go))
+N
+(l(>)&f(^)&r(-), prh(Go))
+N
+(l(>)&f(^)&r(>), prh(Go))
+A
+1
+F
+0.6601857
+0.5075031
+0
