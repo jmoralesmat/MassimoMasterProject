@@ -218,7 +218,7 @@ public class CarReasoner extends NormEngine {
 		return CarAction.Go;
 		}
 		else {
-			
+			return CarAction.Stop;
 		}
 		
 	}
